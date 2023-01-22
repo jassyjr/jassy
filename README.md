@@ -1,1 +1,1 @@
-# jassy
+# dice game
